@@ -1,16 +1,22 @@
-# slack_redesign_challenge
+# Slack Redesign Challange - Flutter (iOS & Android)
 
-Slack redesign challange using flutter
+# Description
+Exploring the power of UI in flutter, I decided to create something cool.
+I saw the concept of flutter while browsing uplaps (https://www.uplabs.com/posts/slack-redesing-challenge)
+My flutter redesign is not exactly same as the uplabs version but quite similar, I used the default flutter icons and colors to keep it simple.
+Here I reveal the power of flutter.
 
-## Getting Started
+<br>
+<img height="400" src="https://github.com/salmaanahmed/SlackRedesignFlutter/blob/master/assets/images/slack_redesign.gif" />
+<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Beautify your applications with flutter :)
+Very simple to implement and looks awesome. You can find more details in sample app.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+# Contributions and Licence
+```SlackRedesignChallange``` is available under the MIT license. See the [LICENSE](https://github.com/salmaanahmed/SAExpandableButton/blob/master/LICENCE.txt) file for more info.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Pull requests are welcome! The best contributions will consist of substitutions or configurations for classes/methods known to block the main thread during a typical app lifecycle.
+
+I would love to know if you like this, express it by star-ring the repo, send an email to [Salmaan Ahmed](mailto:salmaan.ahmed@hotmail.com)
